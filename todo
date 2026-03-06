@@ -1,5 +1,2 @@
 make admin scrollable
-make settings a manage account status page to upgrade or downgrade
-remove friends logic
-    - just leaderboard 
-    - all achievements from everyone show up
+Delete user verification - Ask admin if they are sure they want to delete user
